@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "view_turnos",
+  "builds": [
+    {
+      "src": "**/*.js",
+      "use": "@now/node"
+    }
+  ]
+}
